@@ -1,0 +1,14 @@
+/Users/tifshine/Projects/schoolSIMS/schoolSIMS/bin/Debug/netcoreapp2.2/schoolSIMS.deps.json
+/Users/tifshine/Projects/schoolSIMS/schoolSIMS/bin/Debug/netcoreapp2.2/schoolSIMS.runtimeconfig.json
+/Users/tifshine/Projects/schoolSIMS/schoolSIMS/bin/Debug/netcoreapp2.2/schoolSIMS.runtimeconfig.dev.json
+/Users/tifshine/Projects/schoolSIMS/schoolSIMS/bin/Debug/netcoreapp2.2/schoolSIMS.dll
+/Users/tifshine/Projects/schoolSIMS/schoolSIMS/bin/Debug/netcoreapp2.2/schoolSIMS.pdb
+/Users/tifshine/Projects/schoolSIMS/schoolSIMS/obj/Debug/netcoreapp2.2/schoolSIMS.csprojAssemblyReference.cache
+/Users/tifshine/Projects/schoolSIMS/schoolSIMS/obj/Debug/netcoreapp2.2/schoolSIMS.csproj.CoreCompileInputs.cache
+/Users/tifshine/Projects/schoolSIMS/schoolSIMS/obj/Debug/netcoreapp2.2/schoolSIMS.RazorAssemblyInfo.cache
+/Users/tifshine/Projects/schoolSIMS/schoolSIMS/obj/Debug/netcoreapp2.2/schoolSIMS.RazorAssemblyInfo.cs
+/Users/tifshine/Projects/schoolSIMS/schoolSIMS/obj/Debug/netcoreapp2.2/schoolSIMS.AssemblyInfoInputs.cache
+/Users/tifshine/Projects/schoolSIMS/schoolSIMS/obj/Debug/netcoreapp2.2/schoolSIMS.AssemblyInfo.cs
+/Users/tifshine/Projects/schoolSIMS/schoolSIMS/obj/Debug/netcoreapp2.2/schoolSIMS.RazorTargetAssemblyInfo.cache
+/Users/tifshine/Projects/schoolSIMS/schoolSIMS/obj/Debug/netcoreapp2.2/schoolSIMS.dll
+/Users/tifshine/Projects/schoolSIMS/schoolSIMS/obj/Debug/netcoreapp2.2/schoolSIMS.pdb
